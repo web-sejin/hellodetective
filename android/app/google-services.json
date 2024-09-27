@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "1057379951930",
+    "firebase_url": "https://dettectapp-default-rtdb.firebaseio.com",
+    "project_id": "dettectapp",
+    "storage_bucket": "dettectapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1057379951930:android:e4c4c780bdb94d96309c03",
+        "android_client_info": {
+          "package_name": "com.detectiveapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCa_CdRFdkjA0CUThMNEQDW5DPG-GkV-QY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
